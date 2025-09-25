@@ -1,0 +1,4 @@
+client_secret = cC6ypiG7nz3jqOioW+tE26MbphEq05H5E5uEoc/3qYE=
+host = akab-2a2gtk4crkfqb6b5-3pnsnd7bchydqggc.luna.akamaiapis.net
+access_token = akab-azsja66fjjohhvwj-2hhybmoxckyzmln2
+client_token = akab-dxirha7tj6e2cyfp-mpwzithqlhlxfape
